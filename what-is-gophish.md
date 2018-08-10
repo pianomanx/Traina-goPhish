@@ -1,4 +1,4 @@
-# What is Gophish?
+# What is Traina's Gophish?
 
 ## What is Gophish?
 

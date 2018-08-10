@@ -5,13 +5,13 @@ The following variables are available in templates and landing pages:
 > Tip: Remember - Templates are _case sensitive_!
 
 | Variable | Description |
-| --- | --- |
-| {{.FirstName}} | The target's first name |
-| {{.LastName}} | The target's last name |
-| {{.Position}} | The target's position |
-| {{.Email}} | The target's email address |
-| {{.From}} | The spoofed sender |
-| {{.TrackingURL}} | The URL to the tracking handler |
-| {{.Tracker}} | An alias for `<img src="{{.TrackingURL}}"/>` |
-| {{.URL}} | The phishing URL |
+| :--- | :--- |
+|  | The target's first name |
+|  | The target's last name |
+|  | The target's position |
+|  | The target's email address |
+|  | The spoofed sender |
+|  | The URL to the tracking handler |
+|  | An alias for `<img src="{{.TrackingURL}}"/>` |
+|  | The phishing URL |
 
