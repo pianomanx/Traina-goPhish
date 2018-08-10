@@ -1,8 +1,8 @@
 # Introduction
 
-![gophish logo](https://raw.github.com/jordan-wright/gophish/master/static/images/gophish_purple.png)
+![](.gitbook/assets/20777_86532.JPG)
 
-## Welcome to Gophish!
+## Welcome to Traina's Gophish!
 
 _Current Version: 0.6.0_
 

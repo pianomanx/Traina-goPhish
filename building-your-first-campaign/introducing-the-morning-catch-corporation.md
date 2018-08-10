@@ -1,4 +1,4 @@
-# Introducing the Morning Catch Corporation
+# Introducing the "Morning Catch" scenario
 
 ![Morning Catch](http://imgur.com/ntxL0KB.png)
 
